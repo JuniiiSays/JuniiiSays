@@ -8,6 +8,16 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JuniiiSays" alt="JuniiiSays" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/JuniiiSays" target="blank"><img src="https://img.shields.io/twitter/follow/JuniiiSays?logo=twitter&style=for-the-badge" alt="JuniiiSays" /></a> </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JuniiiSays&" alt="JuniiiSays" /></p>
+
 
 <!-- Contact Me:START -->
 
